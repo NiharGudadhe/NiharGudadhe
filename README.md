@@ -21,47 +21,24 @@
 
 ## 🛠️ Languages and Tools
 
-<h3 align="left">Languages & Tools:</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="GCP" />
+  <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232f3e?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285f4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
-
-<h3 align="left">Technical Expertise:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Machine_Learning-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-3776ab?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer_Vision-000000?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative_AI-9b59b6?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_BI-f2c811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
-
-<h3 align="left">Domains:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/E--Commerce-800080?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Fintech-008080?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Supply_Chain-4682b4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Logistics-d2691e?style=for-the-badge" />
-</p>
----
 
 ## 📊 GitHub Language Stats
-
 <p align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiharGudadhe&layout=compact&langs_count=10&theme=tokyonight"/>
 </p>
 
----
-
 ## 🌐 Connect With Me
-
 <p align="left">
 <a href="mailto:gudadhenihar@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -72,6 +49,5 @@
 </p>
 
 ---
-
 ## 💡 Quote
-> “Data is the new oil, but only if you refine it into Intelligence.”
+> “Data is the new oil, but only if you refine it into intelligence.”
