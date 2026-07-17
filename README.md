@@ -33,9 +33,9 @@
   <img src="https://img.shields.io/badge/Google_Cloud-4285f4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
 
-## 📊 GitHub Language Stats
+### 📈 GitHub Streak Stats
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiharGudadhe&layout=compact&langs_count=10&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=NiharGudadhe&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🌐 Connect With Me
