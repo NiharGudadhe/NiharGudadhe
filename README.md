@@ -13,7 +13,7 @@
 * ✔ Thrive in **fast-paced, collaborative environments**, bridging the gap between raw data and real-world production systems.  
 
 💬 **Ask Me About:** Data Analytics, MLOps, NLP, Applied Machine Learning, and transitioning from Data Analysis to Data Science.  
-📫 **Reach Me At:** [gudadhenihar@example.com]
+📫 **Reach Me At:** [gudadhenihar@gmail.com]
 
 ⚡ **Fun fact:** I treat every dataset like a mystery novel—I don't stop until I've found all the hidden insights and patterns.
 
