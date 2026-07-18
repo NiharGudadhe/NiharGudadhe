@@ -62,11 +62,6 @@
 <!-- Personal Stats -->
 <p align="Left">
   <img
-    src="https://github-readme-stats.shion.dev/api?username=NiharGudadhe&theme=prussian&hide_border=false&include_all_commits=true&count_private=true"
-    height="165"
-  />
-  &nbsp;&nbsp;&nbsp;
-  <img
     src="https://streak-stats.demolab.com/?user=NiharGudadhe&theme=prussian&hide_border=false"
     height="165"
   />
