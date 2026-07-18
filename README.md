@@ -60,7 +60,7 @@
 ## 📊 GitHub Stats
 
 <!-- Personal Stats -->
-<p align="center">
+<p align="Left">
   <img
     src="https://github-readme-stats.shion.dev/api?username=NiharGudadhe&theme=prussian&hide_border=false&include_all_commits=true&count_private=true"
     height="165"
