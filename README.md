@@ -60,7 +60,7 @@
 ## 📊 GitHub Language Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiharGudadhe&layout=compact&langs_count=10&theme=tokyonight" alt="Nihar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiharGudadhe&layout=compact&langs_count=10&theme=tokyonight&refresh=true" alt="Nihar's GitHub Stats" />
 </p>
 ---
 
