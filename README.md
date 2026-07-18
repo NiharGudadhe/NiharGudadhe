@@ -57,12 +57,21 @@
 
 ---
 
-## 📊 GitHub Language Stats
+## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiharGudadhe&layout=compact&langs_count=10&theme=tokyonight&refresh=true" alt="Nihar's GitHub Stats" />
+<!-- Personal Stats -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.shion.dev/api?username=NiharGudadhe&theme=prussian&hide_border=false&include_all_commits=true&count_private=true"
+    height="165"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://streak-stats.demolab.com/?user=NiharGudadhe&theme=prussian&hide_border=false"
+    height="165"
+  />
 </p>
----
+
 
 ## 🌐 Connect With Me
 
