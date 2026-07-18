@@ -60,9 +60,8 @@
 ## 📊 GitHub Language Stats
 
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiharGudadhe&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=86400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiharGudadhe&layout=compact&langs_count=10&theme=tokyonight" alt="Nihar's GitHub Stats" />
 </p>
-
 ---
 
 ## 🌐 Connect With Me
