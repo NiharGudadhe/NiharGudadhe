@@ -61,7 +61,7 @@
 
 ---
 
-# AI / ML Expertise
+## AI / ML Expertise
 
 | Domain | Proficiency | Details |
 |----------|------------|----------|
@@ -76,7 +76,7 @@
 
 ---
 
-# Contribution Activity
+## Contribution Activity
 
 <p align="center">
 
@@ -84,17 +84,7 @@
 
 </p>
 
-## 📊 GitHub Stats
-
-<!-- Personal Stats -->
-<p align="Left">
-  <img
-    src="https://streak-stats.demolab.com/?user=NiharGudadhe&theme=prussian&hide_border=false"
-    height="165"
-  />
-</p>
-
-# Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <picture>
@@ -113,6 +103,15 @@
   </picture>
 </p>
 
+## 📊 GitHub Stats
+
+<!-- Personal Stats -->
+<p align="Left">
+  <img
+    src="https://streak-stats.demolab.com/?user=NiharGudadhe&theme=prussian&hide_border=false"
+    height="165"
+  />
+</p>
 
 ## 🌐 Connect With Me
 
@@ -122,6 +121,9 @@
 </a>
 <a href="https://linkedin.com/in/nihar-gudadhe">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/NiharGudadhe">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
 </a>
 </p>
 
