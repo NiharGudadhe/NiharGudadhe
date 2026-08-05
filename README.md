@@ -4,10 +4,13 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6C63FF,50:7C3AED,100:4F46E5&text=NIHAR%20GUDADHE&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=DATA%20SCIENTIST%20%7C%20AI%20ML%20Engineer&descAlignY=58"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Engineer)](https://git.io/typing-svg)
+<br><br>
 
-<br>
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/assets/images/luffy.gif" width="180px" alt="Monkey D. Luffy" />
+<img src="https://media.giphy.com/media/13hdj5USvSrmAE/giphy.gif" width="160px" alt="Monkey D. Luffy" />
+
+<br><br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Engineer)](https://git.io/typing-svg)
 </div>
 
 💼 A **Data Analyst at Influx Control Panel** with **2.6 years of experience**.  
