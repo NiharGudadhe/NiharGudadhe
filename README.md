@@ -127,5 +127,10 @@
 
 ---
 
-## 💡 Quote
-> “Data is the new oil, but only if you refine it into Intelligence.”          
+<div align="center">
+
+> *“Data is the new oil, but only if you refine it into Intelligence.”*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6C63FF,50:7C3AED,100:4F46E5"/>
+
+</div>          
