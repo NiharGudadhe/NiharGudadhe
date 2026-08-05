@@ -1,6 +1,10 @@
 <!-- Profile Views Badge -->
 ![Profile views](https://komarev.com/ghpvc/?username=NiharGudadhe&color=blue&style=flat)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NiharGudadhe/NiharGudadhe/main/assets/profile-banner.svg" alt="Nihar Gudadhe Profile Banner" width="100%">
+</p>
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6C63FF,50:7C3AED,100:4F46E5&text=NIHAR%20GUDADHE&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=DATA%20SCIENTIST%20%7C%20AI%20ML%20Engineer&descAlignY=58"/>
 
