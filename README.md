@@ -1,19 +1,14 @@
 <!-- Profile Views Badge -->
 ![Profile views](https://komarev.com/ghpvc/?username=NiharGudadhe&color=blue&style=flat)
 
-<div align="center"> 
-  <!-- Capsule Banner: Gradient changed to Luffy Red & Gold -->
-  <img src="https://vercel.app"/> 
-  <br> 
-  
-  <!-- Luffy Character GIF -->
-  <img src="https://githubusercontent.com" width="160" alt="Luffy"> 
-  <br> 
-  
-  <!-- Typing SVG: Color changed to Luffy Red (#FF3333) -->
-  <a href="https://git.io">
-    <img src="https://herokuapp.com" alt="Typing SVG">
-  </a>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6C63FF,50:7C3AED,100:4F46E5&text=NIHAR%20GUDADHE&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=DATA%20SCIENTIST%20%7C%20AI%20ML%20Engineer&descAlignY=58"/>
+
+<br>
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/assets/animated-sticker-luffy.gif" width="160" alt="Luffy">
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Engineer)](https://git.io/typing-svg)
 </div>
 
 💼 A **Data Analyst at Influx Control Panel** with **2.6 years of experience**.  
