@@ -2,10 +2,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=NiharGudadhe&color=blue&style=flat)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=CAFF3C&center=true&vCenter=true&width=600&height=50&lines=Hi+there!+👋+I'm+Nihar+Gudadhe;Data+Scientist+%26+AI+ML+Engineer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</div>
-
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6C63FF,50:7C3AED,100:4F46E5&text=NIHAR%20GUDADHE&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=DATA%20SCIENTIST%20%7C%20AI%20ML%20Engineer&descAlignY=58"/>
 
 <br>
