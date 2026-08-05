@@ -1,7 +1,11 @@
 <!-- Profile Views Badge -->
 ![Profile views](https://komarev.com/ghpvc/?username=NiharGudadhe&color=blue&style=flat)
 
-## 👋 Hi there, I'm **Nihar Gudadhe**
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6C63FF,50:7C3AED,100:4F46E5&text=NIHAR%20GUDADHE&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=DATA%20SCIENTIST%20%7C%20AI%20ML%20Engineer&descAlignY=58"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Engineer)](https://git.io/typing-svg)
+</div>
 
 💼 A **Data Analyst at Influx Control Panel** with **2.6 years of experience**.  
 🔭 Currently focused on **Data Science, transitioning into advanced MLOps and NLP workflows.**
@@ -57,6 +61,29 @@
 
 ---
 
+# AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|----------|------------|----------|
+| Machine Learning | ⭐⭐⭐⭐⭐ | Model Training, Evaluation, Feature Engineering |
+| Data Analysis | ⭐⭐⭐⭐⭐ | Pandas, NumPy, Visualization |
+| Deep Learning | ⭐⭐⭐⭐☆ | Neural Networks |
+| NLP | ⭐⭐⭐⭐☆ | Text Analytics |
+| Computer Vision | ⭐⭐⭐☆☆ | Image Processing |
+| AI Agents | ⭐⭐⭐☆☆ | AI Automation |
+| LLM Integration | ⭐⭐⭐☆☆ | Prompt Engineering, Hugging Face, APIs |
+| Deployment | ⭐⭐⭐⭐⭐ | Streamlit, Flask, Docker |
+
+---
+
+# Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NiharGudadhe&theme=tokyo-night"/>
+
+</p>
+
 ## 📊 GitHub Stats
 
 <!-- Personal Stats -->
@@ -65,6 +92,25 @@
     src="https://streak-stats.demolab.com/?user=NiharGudadhe&theme=prussian&hide_border=false"
     height="165"
   />
+</p>
+
+# Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake.svg"
+    />
+  </picture>
 </p>
 
 
