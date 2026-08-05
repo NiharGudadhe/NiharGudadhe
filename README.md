@@ -76,6 +76,66 @@
 
 ---
 
+## Featured Projects
+
+<details>
+<summary><b>Laptop Price Prediction</b></summary>
+
+### End-to-End Machine Learning Project
+
+| Category | Details |
+|----------|----------|
+| Stack | Python, Scikit-learn, Streamlit |
+| Scale | Predictive Modeling |
+| Performance | E-to-E ML Pipeline |
+| Security | Data Validation |
+| Impact | Price Estimation Support |
+| Repository | [Laptop_Price_Prediction_ML_E2E_Project](https://github.com/NiharGudadhe/Laptop_Price_Prediction_ML_E2E_Project) |
+
+End-to-end machine learning project designed to predict laptop prices based on various hardware specifications.
+
+</details>
+
+---
+
+<details>
+<summary><b>Spam Email Classifier</b></summary>
+
+### Intelligent Classification System
+
+| Category | Details |
+|----------|----------|
+| Stack | Python, Scikit-learn, NLP |
+| Scale | Text Classification |
+| Performance | Real-time Filtering |
+| Security | Input Sanitization |
+| Impact | Automated Spam Detection |
+| Repository | [Spam-Email-Classifier-E2E-ML_Project](https://github.com/NiharGudadhe/Spam-Email-Classifier-E2E-ML_Project) |
+
+End-to-end machine learning project utilizing NLP techniques to classify and filter out spam emails.
+
+</details>
+
+---
+
+<details>
+<summary><b>Loan Default Prediction</b></summary>
+
+### Risk Assessment Platform
+
+| Category | Details |
+|----------|----------|
+| Stack | Python, XGBoost, Streamlit |
+| Scale | Financial Analytics |
+| Performance | High Accuracy Prediction |
+| Security | Secure Data Handling |
+| Impact | Credit Risk Evaluation |
+| Repository | [Loan-Default-Prediction-XGBoost-Streamlit](https://github.com/NiharGudadhe/Loan-Default-Prediction-XGBoost-Streamlit) |
+
+XGBoost-powered machine learning application featuring an interactive Streamlit dashboard for predicting loan defaults.
+
+</details>
+
 ## Contribution Activity
 
 <p align="center">
