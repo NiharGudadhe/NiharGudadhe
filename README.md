@@ -2,7 +2,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=NiharGudadhe&color=blue&style=flat)
 
 <div align="center">
-  <img src="./banner-dark.gif" alt="Nihar Gudadhe - Data Scientist" width="100%" />
+  <img src="banner_dark.gif" alt="Nihar Gudadhe - Data Scientist" width="100%" />
 </div>
 
 💼 A **Data Analyst at Influx Control Panel** with **2.6 years of experience**.  
