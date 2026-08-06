@@ -5,8 +5,9 @@
   <img src="banner_dark.gif" alt="Nihar Gudadhe - Data Scientist" width="100%" />
 </div>
 
-💼 A **Data Analyst at Influx Control Panel** with **2.6 years of experience**.  
-🔭 Currently focused on **Data Science, transitioning into advanced MLOps and NLP workflows.**
+### 💼 A **Data Analyst at Influx Control Panel** with **2.6 years of experience**.
+### 🔭 Currently focused on **Data Science, transitioning into advanced MLOps and NLP workflows.**
+
 
 ### 🚀 What Defines Me as a Data Scientist  
 * ✔ Skilled in **building, training, and deploying scalable AI models** using TensorFlow and PyTorch.  
@@ -191,6 +192,5 @@ XGBoost-powered machine learning application featuring an interactive Streamlit 
 
 > *“Data is the new oil, but only if you refine it into Intelligence.”*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6C63FF,50:7C3AED,100:4F46E5"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:3b0764,50:6b21a8,100:581c87"/>
 </div>          
