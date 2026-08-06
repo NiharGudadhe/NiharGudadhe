@@ -216,7 +216,8 @@ XGBoost-powered machine learning application featuring an interactive Streamlit 
   <font color="#E5FF00"><i>“Data is the new oil, but only if you refine it into Intelligence.”</i></font>
 </h3>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wavy&color=E5FF00&height=120&section=footer" width="100%" />
-</p>
-</div>          
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=wavy&color=E5FF00&height=120&section=footer" width="100%" />
+
+</div>         
