@@ -2,23 +2,41 @@
 ![Profile views](https://komarev.com/ghpvc/?username=NiharGudadhe&color=blue&style=flat)
 
 <div align="center">
-  <img src="banner_dark.gif" alt="Nihar Gudadhe - Data Scientist" width="100%" />
+  <img src="banner_dark1.gif" alt="Nihar Gudadhe - Data Scientist" width="100%" />
 </div>
 
 #### 💼 A **Data Analyst at Influx Control Panel** with **2.6 years of experience**.
 #### 🔭 Currently focused on **Data Science, transitioning into advanced MLOps and NLP workflows.**
 
+---
 
-### 🚀 What Defines Me as a Data Scientist  
-* ✔ Skilled in **building, training, and deploying scalable AI models** using TensorFlow and PyTorch.  
-* ✔ Strong focus on **implementing MLOps best practices** to streamline the end-to-end machine learning lifecycle.  
-* ✔ Ability to translate **complex datasets into clear, actionable business strategies** and automated insights.  
-* ✔ Thrive in **fast-paced, collaborative environments**, bridging the gap between raw data and real-world production systems.  
+<table>
+  <tr>
+    <td><b>🚀 Core Competencies</b></td>
+    <td>• Building, training, and deploying scalable AI models using TensorFlow and PyTorch.<br>• Implementing MLOps best practices to streamline the machine learning lifecycle.</td>
+  </tr>
+  <tr>
+    <td><b>📈 Business Impact</b></td>
+    <td>• Translating complex datasets into clear, actionable business strategies and automated insights.</td>
+  </tr>
+  <tr>
+    <td><b>🌐 Environment</b></td>
+    <td>• Thriving in fast-paced, collaborative environments bridging raw data and production systems.</td>
+  </tr>
+  <tr>
+    <td><b>💬 Ask Me About</b></td>
+    <td>Data Analytics, MLOps, NLP, Applied Machine Learning, & transitioning fields</td>
+  </tr>
+  <tr>
+    <td><b>📫 Reach Me At</b></td>
+    <td><a href="mailto:gudadhenihar@gmail.com">gudadhenihar@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td><b>⚡ Fun Fact</b></td>
+    <td>I treat every dataset like a mystery novel—I don't stop until I've found all the hidden insights and patterns.</td>
+  </tr>
+</table>
 
-💬 **Ask Me About:** Data Analytics, MLOps, NLP, Applied Machine Learning, and transitioning from Data Analysis to Data Science.  
-📫 **Reach Me At:** [gudadhenihar@gmail.com]
-
-⚡ **Fun fact:** I treat every dataset like a mystery novel—I don't stop until I've found all the hidden insights and patterns.
 
 ---
 
@@ -192,6 +210,6 @@ XGBoost-powered machine learning application featuring an interactive Streamlit 
 
 > *“Data is the new oil, but only if you refine it into Intelligence.”*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:09090b,50:00ff66,100:09090b"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0d1117,50:00ff66,100:0d1117"/>
 
 </div>          
