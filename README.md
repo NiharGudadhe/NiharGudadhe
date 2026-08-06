@@ -15,33 +15,21 @@
   </a>
 </p>
 
-<table>
-  <tr>
-    <td><b>🚀 Core Competencies</b></td>
-    <td>• Building, training, and deploying scalable AI models using TensorFlow and PyTorch.<br>• Implementing MLOps best practices to streamline the machine learning lifecycle.</td>
-  </tr>
-  <tr>
-    <td><b>📈 Business Impact</b></td>
-    <td>• Translating complex datasets into clear, actionable business strategies and automated insights.</td>
-  </tr>
-  <tr>
-    <td><b>🌐 Environment</b></td>
-    <td>• Thriving in fast-paced, collaborative environments bridging raw data and production systems.</td>
-  </tr>
-  <tr>
-    <td><b>💬 Ask Me About</b></td>
-    <td>Data Analytics, MLOps, NLP, AI & Machine Learning, & transitioning fields</td>
-  </tr>
-  <tr>
-    <td><b>📫 Reach Me At</b></td>
-    <td><a href="mailto:gudadhenihar@gmail.com">gudadhenihar@gmail.com</a></td>
-  </tr>
-  <tr>
-    <td><b>⚡ Fun Fact</b></td>
-    <td>I treat every dataset like a mystery novel and don't stop until I've found all the hidden insights and patterns.</td>
-  </tr>
-</table>
+### 🔮 What Defines Me as a Data Scientist  
+* 🧠 **Deep Learning & AI:** Skilled in building, training, and deploying scalable AI models using TensorFlow and PyTorch.  
+* ⚙️ **MLOps Excellence:** Strong focus on implementing MLOps best practices to streamline the end-to-end machine learning lifecycle.  
+* 📊 **Business Impact:** Proven ability to translate complex datasets into clear, actionable business strategies and automated insights.  
+* 🌐 **Collaboration:** Thrive in fast-paced, collaborative environments, bridging the gap between raw data and real-world production systems.  
 
+---
+
+<div align="center">
+
+| 💬 **Ask Me About** | 📫 **Reach Me At** | ⚡ **Fun Fact** |
+| :--- | :--- | :--- |
+| Data Analytics, MLOps, NLP, Applied Machine Learning, & Career Transitions | [gudadhenihar@gmail.com](mailto:gudadhenihar@gmail.com) | I treat every dataset like a mystery novel—I don't stop until I've found all the hidden insights. |
+
+</div>
 
 ---
 
