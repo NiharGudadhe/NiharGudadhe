@@ -11,7 +11,7 @@
 ---
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=Data+Scientist;Building+%26+Deploying+AI%2FML+Models;Exploring+Generative+AI+%26+LLMs;Turning+Data+into+Actionable+Stories" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=E5FF00&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+Analyst;Building+%26+Deploying+AI%2FML+Models;Exploring+Generative+AI+%26+LLMs;Turning+Data+into+Actionable+Stories" alt="Typing SVG" />
   </a>
 </p>
 
