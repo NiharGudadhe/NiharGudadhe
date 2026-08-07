@@ -5,14 +5,6 @@
   <img src="banner-dark1.gif" alt="Nihar Gudadhe - Data Scientist" width="100%" />
 </div>
 
-<p style="color: #00ff66; font-size: 1.5em; font-weight: bold; margin-block-start: 0.83em; margin-block-end: 0.83em;">
-  💼 A Data Analyst at Influx Control Panel with 2.6 years of experience.
-</p>
-
-<p style="color: #00ff66; font-size: 1.5em; font-weight: bold; margin-block-start: 0.83em; margin-block-end: 0.83em;">
-  🔭 Currently focused on Data Science, transitioning into advanced MLOps and NLP workflows.
-</p>
-
 ---
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -30,11 +22,13 @@
 
 <div align="center">
 
-| 💬 **Ask Me About** | 📫 **Reach Me At** | ⚡ **Fun Fact** |
-| :--- | :--- | :--- |
-| Data Analytics, MLOps, NLP, Applied Machine Learning, & Career Transitions | [gudadhenihar@gmail.com](mailto:gudadhenihar@gmail.com) | I treat every dataset like a mystery novel—I don't stop until I've found all the hidden insights. |
+| 💬 Professional Experience & Ask Me About | 📫 Reach Me At |
+| ----- | ----- |
+| **Professional Experience:**<br>• A Data Analyst at Influx Control Panel with 2.6 years of experience.<br>• Currently focused on Data Science, transitioning into advanced MLOps and NLP workflows.<br><br>**Ask Me About:**<br>Data Analytics, MLOps, NLP, Applied Machine Learning, & Career Transitions | [gudadhenihar@gmail.com](mailto:gudadhenihar@gmail.com) |
 
 </div>
+
+**⚡ Fun Fact:** I treat every dataset like a mystery novel and don't stop until I've found all the hidden insights.
 
 ---
 
