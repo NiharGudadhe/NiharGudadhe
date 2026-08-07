@@ -5,9 +5,13 @@
   <img src="banner-dark1.gif" alt="Nihar Gudadhe - Data Scientist" width="100%" />
 </div>
 
-<h3><font color="#00ff66">💼 A Data Analyst at Influx Control Panel with 2.6 years of experience.</font></h3>
+<p style="color: #00ff66; font-size: 1.5em; font-weight: bold; margin-block-start: 0.83em; margin-block-end: 0.83em;">
+  💼 A Data Analyst at Influx Control Panel with 2.6 years of experience.
+</p>
 
-<h3><font color="#00ff66">🔭 Currently focused on Data Science, transitioning into advanced MLOps and NLP workflows.</font></h3>
+<p style="color: #00ff66; font-size: 1.5em; font-weight: bold; margin-block-start: 0.83em; margin-block-end: 0.83em;">
+  🔭 Currently focused on Data Science, transitioning into advanced MLOps and NLP workflows.
+</p>
 
 ---
 <p align="center">
