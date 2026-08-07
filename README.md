@@ -2,7 +2,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=NiharGudadhe&color=blue&style=flat)
 
 <div align="center">
-  <img src="banner-dark1.gif" alt="Nihar Gudadhe - Data Scientist" width="100%" />
+  <img src="banner-dark3.gif" alt="Nihar Gudadhe - Data Scientist" width="100%" />
 </div>
 
 ---
