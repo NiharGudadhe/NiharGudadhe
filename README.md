@@ -5,8 +5,9 @@
   <img src="banner-dark1.gif" alt="Nihar Gudadhe - Data Scientist" width="100%" />
 </div>
 
-### 💼 A **Data Analyst at Influx Control Panel** with **2.6 years of experience**.
-### 🔭 Currently focused on **Data Science, transitioning into advanced MLOps and NLP workflows.**
+<h3 style="color: #00ff66;">💼 A Data Analyst at Influx Control Panel with 2.6 years of experience.</h3>
+
+<h3 style="color: #00ff66;">🔭 Currently focused on Data Science, transitioning into advanced MLOps and NLP workflows.</h3>
 
 ---
 <p align="center">
