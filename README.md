@@ -16,7 +16,9 @@
 * 🧠 **Deep Learning & AI:** Skilled in building, training, and deploying scalable AI models using TensorFlow and PyTorch.  
 * ⚙️ **MLOps Excellence:** Strong focus on implementing MLOps best practices to streamline the end-to-end machine learning lifecycle.  
 * 📊 **Business Impact:** Proven ability to translate complex datasets into clear, actionable business strategies and automated insights.  
-* 🌐 **Collaboration:** Thrive in fast-paced, collaborative environments, bridging the gap between raw data and real-world production systems.  
+* 🌐 **Collaboration:** Thrive in fast-paced, collaborative environments, bridging the gap between raw data and real-world production systems.
+* ⚡ **Fun Fact:** I treat every dataset like a mystery novel and don't stop until I've found all the hidden insights.
+ 
 
 ---
 
@@ -24,11 +26,9 @@
 
 | 💬 Professional Experience & Ask Me About | 📫 Reach Me At |
 | ----- | ----- |
-| **Professional Experience:**<br>• A Data Analyst at Influx Control Panel with 2.6 years of experience.<br>• Currently focused on Data Science, transitioning into advanced MLOps and NLP workflows.<br><br>**Ask Me About:**<br>Data Analytics, MLOps, NLP, Applied Machine Learning, & Career Transitions | [gudadhenihar@gmail.com](mailto:gudadhenihar@gmail.com) |
+| **Professional Experience:**<br>• A Data Analyst at Influx Control Panel with 2.6 years of experience.<br>• Currently focused on Data Science, transitioning into advanced MLOps and NLP workflows.<br><br>**Ask Me About:**<br>Data Analytics, MLOps, NLP, AI & Machine Learning | [gudadhenihar@gmail.com](mailto:gudadhenihar@gmail.com) |
 
 </div>
-
-**⚡ Fun Fact:** I treat every dataset like a mystery novel and don't stop until I've found all the hidden insights.
 
 ---
 
