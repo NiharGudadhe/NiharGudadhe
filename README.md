@@ -88,6 +88,26 @@
 ## Featured Projects
 
 <details>
+<summary><b>Shoppers Intent MLOps</b></summary>
+
+### End-to-End Machine Learning Project
+
+| Category | Details |
+|----------|----------|
+| Stack | Python, FastAPI, MLflow, PostgreSQL, Docker |
+| Scale | Production-Grade ML Classification |
+| Performance | ROC AUC: 97.32%, F1 Score: 92.09% |
+| Security | Data Validation & Evidently AI Monitoring |
+| Impact | Online Shopper Purchase Intent Prediction |
+| Repository | [Shoppers-Intent-MLOps](https://github.com/NiharGudadhe/Shoppers-Intent-MLOps) |
+
+Production-grade end-to-end ML classification project designed to predict whether an online shopper will make a purchase or not, complete with automated ETL pipelines, experiment tracking, and continuous monitoring.
+
+</details>
+
+---
+
+<details>
 <summary><b>Laptop Price Prediction</b></summary>
 
 ### End-to-End Machine Learning Project
