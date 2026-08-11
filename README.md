@@ -124,6 +124,7 @@ Production-grade end-to-end ML classification project designed to predict whethe
 End-to-end NLP-based sentiment analysis web application designed to evaluate raw text reviews and classify them into Positive, Negative, or Neutral sentiment with confidence scoring, complete with a secure live MySQL database logging backend and deployed via Streamlit Community Cloud.
 
 </details>
+---
 
 <details>
 <summary><b>Laptop Price Prediction</b></summary>
