@@ -108,6 +108,24 @@ Production-grade end-to-end ML classification project designed to predict whethe
 ---
 
 <details>
+<summary><b>OpinionMetrix: AI Sentiment Transformer</b></summary>
+
+### End-to-End Machine Learning Project
+
+| Category | Details |
+|----------|----------|
+| Stack | Python, Scikit-Learn, Streamlit, MySQL, Git |
+| Scale | Production-Grade NLP Classification |
+| Features | Real-time sentiment classification & probability scoring |
+| Security | Streamlit Cloud Secrets Management |
+| Impact | Customer feedback analysis & live database logging |
+| Repository | [OpinionMetrix_AI_Sentiment_Transformer](https://github.com/NiharGudadhe/OpinionMetrix_AI_Sentiment_Transformer) |
+
+End-to-end NLP-based sentiment analysis web application designed to evaluate raw text reviews and classify them into Positive, Negative, or Neutral sentiment with confidence scoring, complete with a secure live MySQL database logging backend and deployed via Streamlit Community Cloud.
+
+</details>
+
+<details>
 <summary><b>Laptop Price Prediction</b></summary>
 
 ### End-to-End Machine Learning Project
