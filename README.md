@@ -26,7 +26,7 @@
 
 | 💬 Professional Experience & Ask Me About | 📫 Reach Me At |
 | ----- | ----- |
-| **Professional Experience:**<br>• A Data Analyst at Influx Control Panel with 2.6 years of experience.<br>• Currently focused on Data Science, transitioning into advanced MLOps and NLP workflows.<br><br>**Ask Me About:**<br>Data Analytics, MLOps, NLP, AI & Machine Learning | [gudadhenihar@gmail.com](mailto:gudadhenihar@gmail.com) |
+| **Professional Experience:**<br>• A Data Analyst at Influx Control Panel with 2.5+ years of experience.<br>• Currently focused on Data Science, transitioning into advanced MLOps and NLP workflows.<br><br>**Ask Me About:**<br>Data Analytics, MLOps, NLP, AI & Machine Learning | [gudadhenihar@gmail.com](mailto:gudadhenihar@gmail.com) |
 
 </div>
 
