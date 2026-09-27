@@ -85,7 +85,25 @@
 
 ---
 
-## Featured Projects
+<details>
+<summary><b>SkillSync: Semantic Resume-JD Matcher</b></summary>
+
+### End-to-End Machine Learning Project
+
+| Category | Details |
+|----------|----------|
+| Stack | Python, Sentence-Transformers, Streamlit, Pytest, GitHub Actions |
+| Scale | Production-Grade NLP Matching |
+| Performance | Semantic Similarity & Skill Extraction |
+| Security | Input Parsing & Validation |
+| Impact | Meaning-Based Resume & Job Description Matching |
+| Repository | [SkillSync_Semantic-Resume-JD-Matcher](https://github.com/NiharGudadhe/SkillSync_Semantic-Resume-JD-Matcher) |
+
+End-to-end NLP project that evaluates resumes against job descriptions using dense embeddings (Sentence-Transformers) and cosine similarity, combined with regex-based skill extraction and deployed via Streamlit Community Cloud.
+
+</details>
+
+---
 
 <details>
 <summary><b>Shoppers Intent MLOps</b></summary>
