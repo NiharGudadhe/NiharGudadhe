@@ -77,10 +77,10 @@
 | Machine Learning | ⭐⭐⭐⭐⭐ | Model Training, Evaluation, Feature Engineering |
 | Data Analysis | ⭐⭐⭐⭐⭐ | Pandas, NumPy, Visualization |
 | Deep Learning | ⭐⭐⭐⭐☆ | Neural Networks |
-| NLP | ⭐⭐⭐⭐☆ | Text Analytics |
+| NLP | ⭐⭐⭐⭐⭐ | Text Analytics |
 | Computer Vision | ⭐⭐⭐☆☆ | Image Processing |
-| AI Agents | ⭐⭐⭐☆☆ | AI Automation |
-| LLM Integration | ⭐⭐⭐☆☆ | Prompt Engineering, Hugging Face, APIs |
+| AI Agents | ⭐⭐⭐⭐☆ | AI Automation |
+| LLM Integration | ⭐⭐⭐⭐☆ | Prompt Engineering, Hugging Face, APIs |
 | Deployment | ⭐⭐⭐⭐⭐ | Streamlit, Flask, Docker |
 
 ---
